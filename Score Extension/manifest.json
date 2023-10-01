@@ -1,0 +1,12 @@
+{
+      "name" : "Score Extension",
+      "version" : "1.0.0",
+      "description" : "World cup score extension",
+      "manifest_version" : 3,
+      "author" : "Satyarth",
+      "action" : {
+            "default_popup" : "index.html",
+            "default_title" : "World Cup 2023"
+      }
+
+}
